@@ -11,6 +11,8 @@
 #### ○ React 
 #### ○ Redux
 #### ○ TypeScript  
+#### ○ Adobe Photoshop
+#### ○ Adobe Illustrator
 #### ○ Git
 
 <!--
