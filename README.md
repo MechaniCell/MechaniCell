@@ -12,7 +12,7 @@
 #### ○ TypeScript  
 #### ○ Git
 
-#### Moe резюме: https://hh.ru/resume/fca2907eff0956c1490039ed1f6e66646c586b
+#### 💬 Moe резюме: https://hh.ru/resume/fca2907eff0956c1490039ed1f6e66646c586b
 
 <!--
 **MechaniCell/MechaniCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
