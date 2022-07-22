@@ -4,7 +4,7 @@
 #### 🌱 I’m currently learning / Изучаю React.js  
 
 #### ⚡ Technology stack / Мой стек: 
-#### ○   JavaScript 
+#### ○ JavaScript 
 #### ○ HTML 
 #### ○ CSS 
 #### ○ React 
