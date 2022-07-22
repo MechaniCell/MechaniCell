@@ -4,13 +4,13 @@
 #### 🌱 I’m currently learning / Изучаю React.js  
 
 #### ⚡ Technology stack / Мой стек: 
-### -JavaScript 
-### -HTML 
-### -CSS 
-### -React 
-### -Redux
-### -TypeScript  
-### -Git
+### -   JavaScript 
+### -   HTML 
+### -   CSS 
+### -   React 
+### -   Redux
+### -   TypeScript  
+### -   Git
 
 <!--
 **MechaniCell/MechaniCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
