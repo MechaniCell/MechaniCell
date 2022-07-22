@@ -1,8 +1,6 @@
 #### Hi there / Привет 👋
 
-[http://localhost:3000](http://localhost:3000)
-
-#### 📫 Moe резюме: [https://hh.ru/resume/fca2907eff0956c1490039ed1f6e66646c586b] (https://hh.ru/resume/fca2907eff0956c1490039ed1f6e66646c586b)
+#### 📫 Moe резюме: [https://hh.ru/resume/fca2907eff0956c1490039ed1f6e66646c586b](https://hh.ru/resume/fca2907eff0956c1490039ed1f6e66646c586b)
 #### 🔭 I’m currently working on / Мой текущий проект: https://mechanicell.github.io/react-burger/
 #### 🌱 I’m currently learning / Изучаю React.js  
 
