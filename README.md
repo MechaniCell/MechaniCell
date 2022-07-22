@@ -1,12 +1,13 @@
 ### Hi there / Привет 👋
 
+### 🔭 I’m currently working on / Работаю над проектом 
+### 🌱 I’m currently learning / Изучаю React  
+
 <!--
 **MechaniCell/MechaniCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### 🔭 I’m currently working on / Работаю над проектом 
-### 🌱 I’m currently learning / Изучаю React  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
