@@ -1,6 +1,6 @@
 ### Hi there / Привет 👋
 
-### 🔭 I’m currently working on / Работаю над проектом 
+### 🔭 I’m currently working on / Мой текущий проект: https://mechanicell.github.io/react-burger/
 ### 🌱 I’m currently learning / Изучаю React  
 
 <!--
