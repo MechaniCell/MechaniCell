@@ -1,7 +1,7 @@
 ### Hi there / Привет 👋
 
 ### 🔭 I’m currently working on / Мой текущий проект: https://mechanicell.github.io/react-burger/
-### 🌱 I’m currently learning / Изучаю React  
+### 🌱 I’m currently learning / Изучаю React.js  
 
 <!--
 **MechaniCell/MechaniCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
