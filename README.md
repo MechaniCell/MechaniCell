@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on / Мой текущий проект: https://mechanicell.github.io/react-burger/
 ### 🌱 I’m currently learning / Изучаю React.js  
 
-###    Technology stack / Мой стек: 
+### ⚡ Technology stack / Мой стек: 
 ### -JavaScript 
 ### -HTML 
 ### -CSS 
