@@ -33,6 +33,6 @@
       fill: color(srgb 0.4522 0.5938 0.7756);
     }
   </style>
-    <text x="10" y="6" class="mechani">The text is not fully visible </text>
-    <text x="10" y="30" class="cel">The text is fully visible </text>
+    <text x="10" y="6" class="mechani">Mechani</text>
+    <text x="10" y="30" class="cel">cel</text>
 </svg>
