@@ -34,5 +34,5 @@
     }
   </style>
     <text x="10" y="6" class="mechani">Mechani</text>
-    <text x="10" y="30" class="cel">cel</text>
+    <text x="105" y="30" class="cel">cel</text>
 </svg>
