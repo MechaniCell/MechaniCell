@@ -1,6 +1,6 @@
 #### mechanicel
 
-<div>mechanicel</div>
+<div style="color: blue">mechanicel</div>
 
 
 
