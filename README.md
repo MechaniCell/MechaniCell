@@ -2,10 +2,6 @@
 
 [alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=sample.svg)
 
-<details> 
-<summary>SVG code</summary>
-
-```
 @sample.svg
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -16,6 +12,3 @@
     </g>
 </svg>
 @sample.svg
-```
-
-</details>
