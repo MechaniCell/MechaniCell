@@ -18,7 +18,7 @@
   <text x="95" class="cel">cel</text>
 </svg> -->
 
-<svg height="100" width="200" xmlns="http://www.w3.org/2000/svg">
+<svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
   <style>
     .mechani {
       font-family: Helvetica, 'Open Sans', sans-serif;
