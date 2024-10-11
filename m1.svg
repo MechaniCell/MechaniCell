@@ -14,5 +14,5 @@
     }
   </style>
     <text x="5" y="20" class="mechani">Mechani</text>
-    <text x="102" y="20" class="cel">cel</text>
+    <text x="101" y="20" class="cel">cel</text>
 </svg>
