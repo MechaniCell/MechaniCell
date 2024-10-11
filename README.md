@@ -2,5 +2,5 @@
 
 <div style="color:red;">mechanicel</div>
 
-<p style="color:blue">Make this text blue.</p>
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
