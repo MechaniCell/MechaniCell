@@ -13,6 +13,6 @@
       fill: color(srgb 0.4522 0.5938 0.7756);
     }
   </style>
-    <text x="10" y="20" class="mechani">Mechani</text>
-    <text x="105" y="20" class="cel">cel</text>
+    <text x="10" y="18" class="mechani">Mechani</text>
+    <text x="105" y="18" class="cel">cel</text>
 </svg>
