@@ -14,4 +14,4 @@ a[href='red'] {
 </style>
 <a href="red">Look, ma! Red!</a>
 
-This is *red*{: style="color: red"}
+*red*{: style="color: red"}
