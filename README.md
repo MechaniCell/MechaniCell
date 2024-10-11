@@ -1,10 +1,3 @@
 # $${\color{#5e5e5e}Mechani\color{color(srgb 0.4522 0.5938 0.7756)}cel}$$
 
-
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="121px" height="81px" viewBox="-0.5 -0.5 121 81" style="background-color: rgb(255, 255, 255);">
-    <defs/>
-    <g>
-        <ellipse cx="60" cy="40" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
-    </g>
-</svg>
-
+$\color{#58A6FF}\textsf{\large&amp;#x24D8;\kern{0.2cm}\normalsize Note}$
